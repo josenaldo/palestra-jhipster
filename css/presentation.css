@@ -179,3 +179,7 @@
 
     max-height: 80%;
 }
+
+.reveal .white-link {
+    color: #fff;
+}
