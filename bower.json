@@ -1,27 +1,27 @@
 {
-  "name": "reveal.js",
-  "version": "3.3.0",
-  "main": [
-    "js/reveal.js",
-    "css/reveal.css"
-  ],
-  "homepage": "http://lab.hakim.se/reveal-js/",
-  "license": "MIT",
-  "description": "The HTML Presentation Framework",
-  "authors": [
-    "Hakim El Hattab <hakim.elhattab@gmail.com>"
-  ],
-  "dependencies": {
-    "headjs": "~1.0.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
-  },
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test"
-  ]
+    "name": "palestra-jhipster",
+    "version": "1.0.0",
+    "main": [
+        "js/reveal.js",
+        "css/reveal.css"
+    ],
+    "homepage": "http://josenaldo.github.io/palestra-jhipster",
+    "license": "MIT",
+    "description": "Aplicações web modernas com JHipster",
+    "authors": [
+        "Josenaldo de Oliveira Matos Filho <josenaldo@gmail.com>"
+    ],
+    "dependencies": {
+        "headjs": "~1.0.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/josenaldo/palestra-jhipster.git"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test"
+    ]
 }
